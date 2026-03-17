@@ -1,0 +1,19 @@
+# This file configures the Dart analyzer, which checks your code
+# for errors, warnings, and coding style issues.
+
+# Activate the recommended Flutter lints
+include: package:flutter_lints/flutter.yaml
+
+# Customize linting rules below
+linter:
+  rules:
+    # Uncomment the following line if you want to allow print statements
+    # avoid_print: false
+
+    # Uncomment to prefer single quotes for strings
+    # prefer_single_quotes: true
+
+# Notes:
+# 1. Lints are rules that help you write better, safer, and more consistent Dart code.
+# 2. You can enable or disable rules globally here, or ignore them for a single line/file.
+# 3. More info: https://dart.dev/guides/language/analysis-options
